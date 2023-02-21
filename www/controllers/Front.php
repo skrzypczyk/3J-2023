@@ -9,4 +9,10 @@ class Front{
     }
 
 
+    public function contact()
+    {
+        die("Voici ma nouvelle page de contact");
+    }
+
+
 }

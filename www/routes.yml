@@ -2,6 +2,10 @@ default:
   controller: "Front"
   action: "home"
 
+contact:
+  controller: "Front"
+  action: "contact"
+
 se-connecter:
   controller: "Security"
   action: "login"

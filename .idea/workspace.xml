@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e45dfe7-7734-4ee0-812b-5ac589bab036" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/www/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/controllers/Front.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/controllers/Security.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/routes.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/controllers/Front.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/controllers/Front.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/routes.yml" beforeDir="false" afterPath="$PROJECT_DIR$/www/routes.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,7 @@
       <workItem from="1674550080639" duration="6761000" />
       <workItem from="1674809227651" duration="812000" />
       <workItem from="1675176902771" duration="627000" />
-      <workItem from="1676972428721" duration="21232000" />
+      <workItem from="1676972428721" duration="22677000" />
     </task>
     <servers />
   </component>
