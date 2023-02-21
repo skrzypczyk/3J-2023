@@ -1,0 +1,12 @@
+default:
+  controller: "Front"
+  action: "home"
+
+se-connecter:
+  controller: "Security"
+  action: "login"
+
+deconnexion:
+  controller: "Security"
+  action: "logout"
+
